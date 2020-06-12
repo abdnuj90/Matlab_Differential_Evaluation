@@ -1,0 +1,2 @@
+# Matlab_Genetic_Algorithm
+This is a basic Matlab code I used to solve optimization problems using Genetic Algorithm (GA). GA can be tackled either using binary-coded parameters or real-valued parameters. In the code, a binary-coded representation is used to find the optimal objective function, where selection, crossover and mutation processes are applied. A lot of factor can be changed by the user to find the best factors for the specifc problem. These factors include: Mutation factor (Pm), Crossover factor (Pc) & number of population (npop). 
